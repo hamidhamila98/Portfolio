@@ -11,6 +11,8 @@ Ici tu trouveras tout mes projets !
 
 | Project        |  Web Page                                                          | Link                                                             |
 |---------------------|--------------------------------------------------------------------|------------------------------------------------------------------|
+| projet2     |  [Webpage](https://hamidhamila98.github.io/projet2/)   | [GitHub](https://github.com/hamidhamila98/projet2.git)    |
+| projet3     |  [Webpage](https://hamidhamila98.github.io/projet3/)   | [GitHub](https://github.com/hamidhamila98/projet3.git)    |
 | terraform-hamid-test     |  [Webpage](https://hamidhamila98.github.io/terraform-hamid-test/)   | [GitHub](https://github.com/hamidhamila98/terraform-hamid-test.git)    |
 
 ---
