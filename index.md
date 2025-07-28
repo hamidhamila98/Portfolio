@@ -1,7 +1,7 @@
 # Portfolio
 
 ## A propos de moi
-<link rel="stylesheet" href="https://pages-themes.github.io/cayman/style.css">
+
 <img src="https://avatars.githubusercontent.com/u/100043807?v=4" style="width: 10%; height: auto;">
 
 Bienvenu sur le Portfolio de HAMILA Hamid 
